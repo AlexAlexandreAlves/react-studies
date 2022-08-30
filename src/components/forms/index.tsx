@@ -5,7 +5,7 @@
         render() {
             return (
                 <form>
-                <div>
+                <div> 
                     <label htmlFor="tarefa">
                     Adicione um novo estudo
                     </label>
